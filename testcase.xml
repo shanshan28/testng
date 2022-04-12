@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "test" parallel = "none">
+    <parameter name="mobile" value ="18700985271"></parameter>
+    <parameter name="apiVersion" value="6.7.0"></parameter>
+    <parameter name="baseUrl" value="https://fat-rapi.hellobike.com/api"></parameter>
+    <parameter name="token" value="a30890f23a304223b84930f1927462d7"></parameter>
+
+    <test name = "test1">
+        <classes>
+<!--            <class name="com.hellobike.test.DemoApplicationTests"></class>-->
+            <class name="com.hellobike.test.testcase.getUseBikePageMinorInfoTest"></class>
+        </classes>
+    </test>
+</suite>

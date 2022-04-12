@@ -1,0 +1,22 @@
+{
+  "apiVersion" : "${apiVersion}",
+  "storeId" : "29123",
+  "secKillGoodsId" : "",
+  "bikeNo" : "",
+  "preSaleGoodsId" : "",
+  "cityCode" : "021",
+  "action" : "rent.powerBike.contractBikeSku",
+  "token" : "${token}",
+  "lat" : "31.122991",
+  "tradeInActivityId" : "",
+  "cleanSecKill" : false,
+  "lng" : "121.364866",
+  "modelId" : "MD1466613420385538049",
+  "adCode" : "310112",
+  "__sysTag" : "tt-based-4b",
+  "userDevice" : {
+    "deviceBrand" : "Apple",
+    "deviceModel" : "iPhone12,1",
+    "osVersion" : "14.7.1"
+  }
+}

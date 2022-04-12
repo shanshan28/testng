@@ -1,0 +1,9 @@
+{
+  "adCode" : "310112",
+  "token" : "${token}",
+  "cityCode" : "021",
+  "ticket": "",
+  "action" : "rent.user.getUseBikePagePrimeInfo",
+  "bikeNo" : "2100228615",
+  "apiVersion" : "${apiVersion}"
+}

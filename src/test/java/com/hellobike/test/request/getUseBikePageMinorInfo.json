@@ -1,0 +1,18 @@
+{
+  "apiVersion" : "${apiVersion}",
+  "useBike110Flag" : true,
+  "authedBike" : true,
+  "cityCode" : "021",
+  "__sysTag": "tt-based-4b",
+  "action" : "rent.powerBike.getUseBikePageMinorInfo",
+  "token" : "${token}",
+  "lat" : "31.122991",
+  "orderId" : "20220110164216993120042226658",
+  "lng" : "121.364872",
+  "adCode" : "310112",
+  "userDevice" : {
+    "deviceBrand" : "Apple",
+    "deviceModel" : "iPhone12,1",
+    "osVersion" : "14.7.1"
+  }
+}
